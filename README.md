@@ -21,6 +21,7 @@ What do you want to choose? (Heads/Tails)
 > heads
 
 You: heads || Computer: tails
+
 Player: 0 || Computer: 1
 
 ...
