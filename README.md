@@ -1,4 +1,4 @@
-Heads or Tails Game
+# Heads or Tails Game
 
 A simple console-based game built in Java where the user plays Heads or Tails against the computer for 5 rounds. Each round, the player selects either "Heads" or "Tails", and the computer randomly makes its choice. The player with the most correct guesses at the end wins.
 
